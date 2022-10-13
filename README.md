@@ -1,32 +1,32 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200.webp?cid=ecf05e47rtlecnqp3veafq70sthou09l3njyveth4j59djt9&rid=200.webp&ct=g" width="200"/>
+  <img src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200.webp?cid=ecf05e47rtlecnqp3veafq70sthou09l3njyveth4j59djt9&rid=200.webp&ct=g" width="400"/>
 </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges" align="center">
+  <a align="center" href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a align="center" href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a align="center" href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div id="badges"><img src="https://komarev.com/ghpvc/?username=Aseelyaser&style=flat-square&color=blue" alt=""/></div>
+<div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=Aseelyaser&style=flat-square&color=blue" alt=""/></div>
 
 ---
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jordan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a full-stack developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: problem solving , -----.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I looking for "error" reading about it,how dealing with it .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aseel-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](http://www.linkedin.com/in/aseel-yaser))
 
 ---
 
@@ -53,6 +53,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=Aseelyaser
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :writing_hand: Blog Posts :
 # Aseel 
  I'm Aseel from Jordan .----------------------------.you can chek out my http://www.linkedin.com/in/aseel-yaser .
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aseelyaser)](https://github.com/anuraghazra/github-readme-stats)
