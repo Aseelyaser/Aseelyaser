@@ -16,14 +16,10 @@
 </div>
 <div id="badges"><img src="https://komarev.com/ghpvc/?username=Aseelyaser&style=flat-square&color=blue" alt=""/></div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 ### :woman_technologist: About Me :
-
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jordan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -52,6 +48,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=Aseelyaser
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 # Aseel 
  I'm Aseel from Jordan .----------------------------.you can chek out my http://www.linkedin.com/in/aseel-yaser .
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aseelyaser)](https://github.com/anuraghazra/github-readme-stats)
