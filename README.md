@@ -94,7 +94,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aseelyaser&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Aseelyaser&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aseelyaser&" alt="aseelyaser" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aseelyaser" alt="aseelyaser" /></a> </p>
