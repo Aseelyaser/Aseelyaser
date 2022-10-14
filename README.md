@@ -17,7 +17,7 @@
 
 - 👯 I’m collaborate with **project5 [---]**
 
-- ❓ Ask me about anything related to react, node, MongoDB, Express   
+- ❓ Ask me about anything related to web developing   
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing](https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing) 
