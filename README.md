@@ -17,7 +17,7 @@
   </a>
 </div>
 <div id="badges" align="center"><img src="https://komarev.com/ghpvc/?username=Aseelyaser&style=flat-square&color=blue" alt=""/></div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aseelyaser&label=Profile%20views&color=0e75b6&style=flat" alt="aseelyaser" /> </p>
 ---
 
 ### :woman_technologist: About Me :
@@ -31,6 +31,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 💬 Ask me about **react , mongodb ,express**
 
 - 📫 How to reach me **aseelyaserco@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing](https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing) 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aseel-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](http://www.linkedin.com/in/aseel-yaser))
 
@@ -52,33 +53,33 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=Aseelyaser
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aseelyaser&" alt="aseelyaser" /></p>
 
----
+<!-- ---
 
-### :writing_hand: Blog Posts :
-# Aseel 
- I'm Aseel from Jordan .----------------------------.you can chek out my http://www.linkedin.com/in/aseel-yaser .
+### :writing_hand: Blog Posts : -->
+<!-- # Aseel 
+ I'm Aseel from Jordan .----------------------------.you can chek out my http://www.linkedin.com/in/aseel-yaser  -->
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aseelyaser)](https://github.com/anuraghazra/github-readme-stats)
  
-## skills and experience
+<!-- ## skills and experience
 * :atom: React
-* :computer: HTML ,CSS ,JS
+* :computer: HTML ,CSS ,JS -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</p> -->
 
-//------------------------------------------------------------
-<h1 align="center">Hi 👋, I'm Aseel</h1>
-<h3 align="center">A full-stack web developer from Jordan</h3>
+<!-- <h1 align="center">Hi 👋, I'm Aseel</h1>
+<h3 align="center">A full-stack web developer from Jordan</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aseelyaser&label=Profile%20views&color=0e75b6&style=flat" alt="aseelyaser" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aseelyaser" alt="aseelyaser" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React , redux**
+<!-- - 🌱 I’m currently learning **React , redux**
 
 - 👯 I’m collaborate with **project5 [---]**
 
@@ -86,7 +87,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=Aseelyaser
 
 - 📫 How to reach me **aseelyaserco@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing](https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing](https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -94,11 +95,11 @@ https://github-readme-streak-stats.herokuapp.com/?user=Aseelyaser
 <a href="https://fb.com/https://web.facebook.com/aseel.yaser.1213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/aseel.yaser.1213" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<!-- <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aseelyaser&show_icons=true&locale=en&layout=compact" alt="aseelyaser" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aseelyaser&show_icons=true&locale=en&layout=compact" alt="aseelyaser" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aseelyaser&show_icons=true&locale=en" alt="aseelyaser" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aseelyaser&show_icons=true&locale=en" alt="aseelyaser" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aseelyaser&" alt="aseelyaser" /></p>
+
