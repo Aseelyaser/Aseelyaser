@@ -1,12 +1,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Aseel%20Yaser&fontSize=90" />
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div> 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/k0ijJhqrUP4T2EvmJ1/200.webp?cid=ecf05e47rtlecnqp3veafq70sthou09l3njyveth4j59djt9&rid=200.webp&ct=g" width="400"/>
 </div>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div> 
+
 
 ### <div align="center">🚀👩‍💻I'm Aseel, a full-stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jordan 👩‍💻🚀</div>  
 
