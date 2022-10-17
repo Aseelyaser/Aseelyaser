@@ -12,7 +12,8 @@
 ### <div align="center">🚀👩‍💻I'm Aseel, a full-stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Jordan 👩‍💻🚀</div>  
 
 - :telescope: I’m working as a full-stack developer and contributing to frontend and backend for building web applications. 
-- :zap: In my free time, I look for "errors" and read about them, and how to deal with them.
+- :zap:During my free time here, I figured out errors, try to understand the reasons,fix and deal with them.
+
 - 🌱 I’m currently learning **React , redux**
 
 - 👯 I’m collaborate with **project5 [---]**
