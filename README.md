@@ -14,7 +14,7 @@
 - :telescope: I’m working as a full-stack developer and contributing to frontend and backend for building web applications. 
 - :zap:During my own time here, I figured out errors, try to understand the reasons,fix and deal with them.
 
-- 🌱 I’m currently learning **React , redux**
+- 🌱 I’m currently learning React , redux.
 
 - 👯 I’m collaborate with "The Three Spies Team" in [Fitrat Insan Donation-Comunity].
 
