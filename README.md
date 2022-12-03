@@ -124,8 +124,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Aseelyaser/ghpvc/?username=Aseelyaser&&style=flat-square" align="center" />
-</div>  
+<img src="https://komarev.com/ghpvc/?username=Aseelyaser&&style=flat-square" align="center" /></div>  
   
   
   
