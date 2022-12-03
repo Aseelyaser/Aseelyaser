@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React , redux**
 
-- 👯 I’m collaborate with "The Three Spies Team in [Fitrat Insan Donation-Comunity]**
+- 👯 I’m collaborate with "The Three Spies Team" in [Fitrat Insan Donation-Comunity]**
 
 - ❓ Ask me about anything related to web developing   
 
