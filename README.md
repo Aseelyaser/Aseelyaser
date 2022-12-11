@@ -20,13 +20,13 @@
 
 - ❓ Ask me about anything related to developing  . 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing]([https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing](https://res.cloudinary.com/dv3wzcjeh/image/upload/v1670788639/Aseel_Yaser_2_.pdf_1_slewyh.png))  
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing]([https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing](https://res.cloudinary.com/dv3wzcjeh/image/upload/v1670788639/Aseel_Yaser_2_.pdf_1_slewyh.png))   -->
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aseel-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/aseel-yaser](http://www.linkedin.com/in/aseel-yaser))
 
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<!-- <table><tr><td valign="top" width="33%"> -->
 
 
 
@@ -42,7 +42,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%"> -->
 
 
 
