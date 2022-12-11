@@ -22,7 +22,7 @@
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing](https://drive.google.com/file/d/1viw8CXoafbgW1icY-fxkeTw_V2QAdqyo/view?usp=sharing)  
-- 📄 Know about my experiences  Images for [![resume Badge](https://img.shields.io/badge/-Aseel-gray?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/aseel-yaser](http://www.linkedin.com/in/aseel-yaser))
+- 📄 Know about my experiences  Images for [![resume Badge](https://img.shields.io/badge/-Aseel-gray?style=flat&logo=Linkedin&logoColor=gray)]([www.linkedin.com/in/aseel-yaser](http://www.linkedin.com/in/aseel-yaser))
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Aseel-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/aseel-yaser](http://www.linkedin.com/in/aseel-yaser))
 
 
