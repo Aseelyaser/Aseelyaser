@@ -72,9 +72,9 @@
 
 ## Connect with me  
 <div align="left">
-<a href="https://github.com/Aseelyaser" target="_blank">
+<!-- <a href="https://github.com/Aseelyaser" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://twitter.com/Aseel_yaser7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -87,7 +87,7 @@
 <!-- <a href="https://www.facebook.com/Aseel Yaser" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> -->
-<a href="https://www.youtube.com/user/aseel" target="_blank">
+<a href="https://www.youtube.com/user/Aseelyaser" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
