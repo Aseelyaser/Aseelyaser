@@ -25,7 +25,7 @@
 
 
 
-## My Skill In Backend-Frontend
+## My Skills In Backend & In Frontend
 <!-- <table><tr><td valign="top" width="33%"> -->
 
 
